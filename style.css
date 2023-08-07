@@ -1,0 +1,18 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+:root {
+     --cor-de-fundo: #278b0e;
+     --branco: #FFFFFF;
+     --laranja:#EB9B00;
+     --fundo: linear-gradient(97.54deg,#2c0524 35,49%,#87fa70 165,37%);
+     --fonte-principal: "Poppins";
+     --azul:#002f52;
+}
+body {
+    background-color: blueviolet;
+    font-family:var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+

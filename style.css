@@ -10,7 +10,7 @@
      --azul:#002f52;
 }
 body {
-    background-color: blueviolet;
+    background-color: rgb(44, 88, 155);
     font-family:var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
